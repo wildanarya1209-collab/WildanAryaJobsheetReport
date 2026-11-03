@@ -4,7 +4,7 @@
 
 - Name: Wildan Arya Indradiansyah
 - Student ID (NIM): 264107020257
-- Class / Attendance No.: TI-1I / 30
+- Class / No. Attendance : TI-1I / 30
 
 ---
 
